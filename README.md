@@ -1,7 +1,7 @@
 
 # React Native Calculator
 ## General Info
-I built a calculator app using React Native. It's not fully functional, but I did want to use this mini-project to introduce myself to JavaScript mobile application frameworks. I am excited to have learned how powerful and convenient it is to integrate markup language (embedding XML through JSX) into a high-level programming language (JS). Also using one code base and deploying them to multiple platforms is also a godsend.
+I built a calculator app using React Native. It's not fully functional, but I did want to use this mini-project to introduce myself to JavaScript mobile application frameworks. I am excited to have learned how powerful and convenient it is to integrate markup language (embedding XML through JSX) into a high-level programming language (JS). My next react native project is in progress, will be launching it soon.
 ## Screenshots
 ![Screenshot](https://i.imgur.com/w9ETQ0y.png)
 ## Built With
